@@ -1,0 +1,24 @@
+--- !ruby/object:Game
+choice: '1'
+secret_word: 'tiger
+
+  '
+lives: 3
+result_arr:
+- t
+- _
+- _
+- e
+- r
+used_letters:
+- o
+- t
+- e
+- r
+- a
+- p
+lowercase: !ruby/range
+  begin: a
+  end: z
+  excl: false
+guess: ''
